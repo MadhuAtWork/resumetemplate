@@ -1,0 +1,13 @@
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
+.heading{
+color: #1976d2;
+}
+body{
+    overflow: auto;
+}
+.anchortag{
+    color: blue !important;
+} 
